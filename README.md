@@ -18,8 +18,6 @@ I'm particularly interested in computational neuroscience frameworks, especially
 🌐 *My Website*: [yibeisita.github.io](https://yibeisita.github.io/)
 
 
-<br>
-
 ### Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yibei-wang-chen/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yibeisita)
