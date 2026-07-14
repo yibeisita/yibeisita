@@ -6,7 +6,7 @@ I currently work as an **AI Engineer @ Capgemini**, but in my free time, I resea
 I'm particularly interested in computational neuroscience frameworks, especially those that model **agency** and **adaptive behaviour**.
 
 
-**Research Areas of Interest**
+**Things I would like to go deeper into...**
 
 * **Predictive Processing** & the **Free Energy Principle (FEP)**
 * **Active-Inference-style Modelling**
