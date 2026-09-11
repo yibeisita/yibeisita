@@ -3,13 +3,12 @@
 My name is **Yibei** (it means northern happiness).
 
 I currently work as an **AI Engineer @ Capgemini**, but in my free time, I research the confluence of neuroscience and deep learning.<br>
-I'm particularly interested in computational neuroscience frameworks, especially those that model **agency** and **adaptive behaviour**.
+I'm particularly interested in computational neuroscience frameworks, especially those that model **conciousness**.
 
 
 **Things I would like to go deeper into...**
 
-* **Predictive Processing** & the **Free Energy Principle (FEP)**
-* **Active-Inference-style Modelling**
+* **Predictive Coding**
 * The emergence of **Agency** and **Meta-Cognition**
 * Complex Sytems and **Critical Brain Hypothesis**
 
